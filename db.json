@@ -129,6 +129,105 @@
           ]
         }
       ]
+    },
+    {
+      "surveyId": 2,
+      "title": "Environmental survey",
+      "questions": [
+        {
+          "questionId": 1,
+          "questionTitle": "Global warming is the biggest problem facing humanity.",
+          "answerOptions": [
+            {
+              "answerOption": 1,
+              "text": "Strongly disagree",
+              "selectedByRespondents": 20
+            },
+            {
+              "answerOption": 2,
+              "text": "Disagree",
+              "selectedByRespondents": 20
+            },
+            {
+              "answerOption": 3,
+              "text": "Neither agree nor disagree",
+              "selectedByRespondents": 20
+            },
+            {
+              "answerOption": 4,
+              "text": "Agree",
+              "selectedByRespondents": 10
+            },
+            {
+              "answerOption": 5,
+              "text": "Strongly agree",
+              "selectedByRespondents": 30
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "questionTitle": "I believe in global warming.",
+          "answerOptions": [
+            {
+              "answerOption": 1,
+              "text": "Strongly disagree",
+              "selectedByRespondents": 10
+            },
+            {
+              "answerOption": 2,
+              "text": "Disagree",
+              "selectedByRespondents": 5
+            },
+            {
+              "answerOption": 3,
+              "text": "Neither agree nor disagree",
+              "selectedByRespondents": 10
+            },
+            {
+              "answerOption": 4,
+              "text": "Agree",
+              "selectedByRespondents": 15
+            },
+            {
+              "answerOption": 5,
+              "text": "Strongly agree",
+              "selectedByRespondents": 60
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "questionTitle": "To reduce the consumption of single use plastic bags, supermarkets should increase the price of bags to £1.",
+          "answerOptions": [
+            {
+              "answerOption": 1,
+              "text": "Strongly disagree",
+              "selectedByRespondents": 40
+            },
+            {
+              "answerOption": 2,
+              "text": "Disagree",
+              "selectedByRespondents": 10
+            },
+            {
+              "answerOption": 3,
+              "text": "Neither agree nor disagree",
+              "selectedByRespondents": 10
+            },
+            {
+              "answerOption": 4,
+              "text": "Agree",
+              "selectedByRespondents": 15
+            },
+            {
+              "answerOption": 5,
+              "text": "Strongly agree",
+              "selectedByRespondents": 25
+            }
+          ]
+        }
+      ]
     }
   ]
 }
