@@ -356,68 +356,6 @@
               "selectedByRespondents": 25
             }
           ]
-        },
-        {
-          "questionId": 5,
-          "questionTitle": "The US economy has improved while Donald Trump has been President.",
-          "answerOptions": [
-            {
-              "answerOption": 1,
-              "text": "Strongly disagree",
-              "selectedByRespondents": 15
-            },
-            {
-              "answerOption": 2,
-              "text": "Disagree",
-              "selectedByRespondents": 15
-            },
-            {
-              "answerOption": 3,
-              "text": "Neither agree nor disagree",
-              "selectedByRespondents": 20
-            },
-            {
-              "answerOption": 4,
-              "text": "Agree",
-              "selectedByRespondents": 20
-            },
-            {
-              "answerOption": 5,
-              "text": "Strongly agree",
-              "selectedByRespondents": 30
-            }
-          ]
-        },
-        {
-          "questionId": 5,
-          "questionTitle": "It was the right decision to impeach Donald Trump.",
-          "answerOptions": [
-            {
-              "answerOption": 1,
-              "text": "Strongly disagree",
-              "selectedByRespondents": 20
-            },
-            {
-              "answerOption": 2,
-              "text": "Disagree",
-              "selectedByRespondents": 15
-            },
-            {
-              "answerOption": 3,
-              "text": "Neither agree nor disagree",
-              "selectedByRespondents": 30
-            },
-            {
-              "answerOption": 4,
-              "text": "Agree",
-              "selectedByRespondents": 10
-            },
-            {
-              "answerOption": 5,
-              "text": "Strongly agree",
-              "selectedByRespondents": 25
-            }
-          ]
         }
       ]
     }
