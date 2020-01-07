@@ -1,7 +1,6 @@
-## Try it
+## Interview API
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+This repo creates a dummy API that is used for our technical assignment.
 
-## Use your own data
+Here is the API endpoint: https://my-json-server.typicode.com/focaldata/demo/db
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
